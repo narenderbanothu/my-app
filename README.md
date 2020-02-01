@@ -1,3 +1,1 @@
 # my-app
-
-# Inital Commit
